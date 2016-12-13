@@ -1,0 +1,9 @@
+{
+  "mocks": {
+    "plugins": {
+      "dynamic": {
+        "abTest": "abtest-mock.js"
+      }
+    }
+  }
+}

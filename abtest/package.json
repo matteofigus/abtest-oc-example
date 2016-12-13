@@ -1,0 +1,16 @@
+{
+  "name": "abtest",
+  "description": "",
+  "version": "1.0.0",
+  "repository": "",
+  "oc": {
+    "plugins": ["abTest"],
+    "files": {
+      "data": "server.js",
+      "template": {
+        "src": "template.jade",
+        "type": "jade"
+      }
+    }
+  }
+}
